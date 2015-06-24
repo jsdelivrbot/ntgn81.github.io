@@ -1,0 +1,23 @@
+body {
+  padding-top: 55px;
+}
+.starter-template {
+  padding: 40px 15px;
+  text-align: center;
+}
+
+.panel-toggle .down {
+  display: none;
+  cursor: pointer;
+}
+.panel-toggle .up {
+  display: inline-block;
+  cursor: pointer;
+}
+
+.panel-toggle.collapsed .down {
+  display: inline-block;
+}
+.panel-toggle.collapsed .up {
+  display: none;
+}
