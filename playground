@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/baobab/2.3.3/baobab.js" />
+</head>
+
+<body>
+  <h1>Libraries loaded</h1>
+  <ul>
+    <li>jQuery</li>
+    <li>Baobap</li>
+  </ul>
+
+</body>
+</html>
